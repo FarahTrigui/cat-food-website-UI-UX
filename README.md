@@ -1,6 +1,7 @@
 ## cat_food_website_uiux
+![image](https://github.com/FarahTrigui/cat-food-website-UI-UX/assets/123186379/8f9d2f94-b185-4bc6-8210-b1487a1e332c)
+
 Welcome to the repository for the user interface (UI) of our cat food website, built using React. This project aims to provide a visually appealing and user-friendly platform for cat owners to explore and purchase high-quality cat food products.
-![image](https://github.com/FarahTrigui/cat-food-website-UI-UX/assets/123186379/8add57c8-165e-4157-a1b7-85e7086509df)
 
 Features:
 Sleek and Modern Design: Our UI boasts a clean and modern design aesthetic, enhancing the overall user experience.
